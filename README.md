@@ -155,10 +155,12 @@
           <div class="container">
             <p>Connect with me on</p>
             <div class="social-media">
-              <a href="https://www.facebook.com/"><img src="facebook.WEBP" alt="Facebook"></a>
-              <a href="https://twitter.com/"><img src="twitter.PNG" alt="Twitter"></a>
-              <a href="https://www.instagram.com/"><img src="instagram.JFIF" alt="Instagram"></a>
-              <a href="https://www.linkedin.com/"><img src="linkin.PNG" alt="LinkedIn"></a>
+      <a href="https://okwelmark.github.io/simu/">Contact me</a>
+      <a href="achievementsandexperience.html">Experience</a>
+      <a href="https://okwelmark.github.io/somaa/">Education</a>
+      <a href="https://okwelmark.github.io/mit/">Hobbies</a>
+      <a href="https://okwelmark.github.io/amaka/">About</a>
+      <a href="https://okwelmark.github.io/home/">Home</a>
             </div>
           </div>
         </fieldset>
