@@ -156,7 +156,7 @@
             <p>Connect with me on</p>
             <div class="social-media">
       <a href="https://okwelmark.github.io/simu/">Contact me</a>
-      <a href="achievementsandexperience.html">Experience</a>
+      <a href="https://okwelmark.github.io/ngec/">Experience</a>
       <a href="https://okwelmark.github.io/somaa/">Education</a>
       <a href="https://okwelmark.github.io/mit/">Hobbies</a>
       <a href="https://okwelmark.github.io/amaka/">About</a>
